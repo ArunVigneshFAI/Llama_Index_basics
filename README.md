@@ -1,4 +1,9 @@
 # Llama_Index_basics
+
+![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/72859bd1-48a2-457a-ab64-772ad427abc8)
+
+![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/4ae04a97-3157-42a6-a4c2-1502ac8ed40c)
+
 The general usage pattern of LlamaIndex is as follows:
 
 1. Load in documents (either manually, or through a data loader)
