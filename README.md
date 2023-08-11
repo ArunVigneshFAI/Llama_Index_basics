@@ -1,8 +1,8 @@
 # Llama_Index_basics
 
-![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/72859bd1-48a2-457a-ab64-772ad427abc8)
+![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/829ce30e-6bd0-4b59-abd5-d190a654965f)
 
-![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/4ae04a97-3157-42a6-a4c2-1502ac8ed40c)
+![image](https://github.com/ArunVigneshFAI/Llama_Index_basics/assets/141916176/e4c4af2a-6507-4bcf-85a2-a903f4b5a322)
 
 The general usage pattern of LlamaIndex is as follows:
 
