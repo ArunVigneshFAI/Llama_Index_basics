@@ -35,3 +35,11 @@ An index can now be constructed utilizing the available Document objects. The mo
 The function 'from_documents' also features an optional parameter named 'show_progress'. By setting it to 'True', users can opt to view a progress bar while the index is being built.
 
 Moreover, the option exists to create an index using a group of Node objects directly. Depending on the chosen index approach, LlamaIndex might employ LLM (Large Language Model) calls to facilitate the index construction process.
+
+## 4. [Optional, Advanced] Building indices on top of other indices
+The capability exists to construct indices atop existing indices. This compositional approach empowers users to effectively index diverse data sources. LlamaIndex introduces the concept of index composability, enabling the creation of indices built upon pre-existing indices. This feature proves advantageous in comprehensively indexing an entire document hierarchy, facilitating the provision of tailored knowledge to GPT.
+
+Composability provides the means to establish more detailed indices for individual documents, as well as more comprehensive indices covering a range of documents.
+
+## 5. Query the index
+Following the index construction process, users gain the ability to perform queries using a QueryEngine. It's important to recognize that a "query" essentially constitutes an input to a Large Language Model (LLM). Consequently, the index serves a purpose beyond just answering questions; it can be employed for various other tasks as well.
